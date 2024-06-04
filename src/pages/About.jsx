@@ -15,15 +15,14 @@ const About = () => {
         Hello, I'm{" "}
         <span className='blue-gradient_text font-semibold drop-shadow'>
           {" "}
-          Adrian
+          Jerry
         </span>{" "}
         👋
       </h1>
 
       <div className='mt-5 flex flex-col gap-3 text-slate-500'>
         <p>
-          Software Engineer based in Croatia, specializing in technical
-          education through hands-on learning and building applications.
+          Blockchain developer based in United States, currently building my own project TruCritic and Recivo.
         </p>
       </div>
 
@@ -50,8 +49,7 @@ const About = () => {
         <h3 className='subhead-text'>Work Experience.</h3>
         <div className='mt-5 flex flex-col gap-3 text-slate-500'>
           <p>
-            I've worked with all sorts of companies, leveling up my skills and
-            teaming up with smart people. Here's the rundown:
+            I've worked with a few web3 companies. advancing my blockchain knowledge, and teaming up with gigachads. Here's the run down:
           </p>
         </div>
 
